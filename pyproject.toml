@@ -8,6 +8,7 @@ authors = ["varun-s22 <93476421+varun-s22@users.noreply.github.com>"]
 python = "^3.10"
 opencv-python = "^4.5.5"
 opencv-contrib-python = "^4.5.5"
+PyQt6 = "^6.3.0"
 
 [tool.poetry.dev-dependencies]
 
