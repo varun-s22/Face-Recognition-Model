@@ -2,3 +2,4 @@ training_images
 untrained_images
 photos
 __pycache__
+.DS_Store
