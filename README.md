@@ -15,3 +15,7 @@ Run `poetry install` to get all the required dependencies on your machine
 ## How it works
 
 Run `python main.py` inside the `src` folder.
+
+## How it looks
+
+![](screenshots/gui.png)
